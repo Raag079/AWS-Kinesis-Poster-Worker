@@ -1,7 +1,7 @@
 kinesis-poster-worker
 =====================
 
-A simple Python-based Kinesis Poster and Worker example (aka _The Egg Finder_)
+A simple Python-based Kinesis Poster and Worker
 
 _Poster_ is a multi-threaded client that creates ```--poster_count``` poster 
 threads to: 
@@ -52,4 +52,3 @@ Related Resources
 * [Amazon Kinesis Developer Guide](http://docs.aws.amazon.com/kinesis/latest/dev/introduction.html)  
 * [Amazon Kinesis API Reference](http://docs.aws.amazon.com/kinesis/latest/APIReference/Welcome.html)
 * [AWS SDK for Python](http://aws.amazon.com/sdkforpython)
-* [Apache 2.0 License](http://aws.amazon.com/apache2.0)
